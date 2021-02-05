@@ -18,3 +18,4 @@ add start/pause button and count down to begin game
 varying speed of ball and user paddle block
 dynamically add new blocks, blocks coming down
 Add more levels to game
+Add design to the board
